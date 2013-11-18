@@ -1,4 +1,5 @@
 to_be_ignored.txt
+to_be_ignored_after_tracked.txt
 *.log
 log/*.log
 log/*.log.[0-9]
