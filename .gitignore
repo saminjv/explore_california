@@ -1,0 +1,4 @@
+to_be_ignored.txt
+*.log
+log/*.log
+log/*.log.[0-9]
